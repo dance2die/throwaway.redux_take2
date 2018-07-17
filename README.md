@@ -6,3 +6,5 @@ I found 👆 to be easiest way to learn redux for React.
 
 The tutorial is complete.
 
+# Source
+Published on GitHub ([dance2die/throwaway.redux_take2](https://github.com/dance2die/throwaway.redux_take2)).
